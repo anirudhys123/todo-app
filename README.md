@@ -1,4 +1,4 @@
-Todo App
+
 This is a Todo App built with Flutter that allows users to keep track of their day-to-day tasks. It provides an easy-to-use interface to add, edit, mark tasks as completed, and delete tasks. The app enables users to manage their to-do list effectively by storing tasks locally on the device.
 
 Features
